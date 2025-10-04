@@ -33,7 +33,7 @@ Nesta versão do repositório, estão presentes os seguintes componentes/tecnolo
 
 ---
 
-## 📂 Estrutura de pastas (exemplo)
+## 📂 Estrutura de pastas 
 
 ```
 mmbier/
@@ -46,8 +46,6 @@ mmbier/
 ├── package.json           # dependências e scripts
 └── README.md              # este arquivo
 ```
-
-Você pode adaptar conforme a estrutura real do seu repositório.
 
 ---
 
