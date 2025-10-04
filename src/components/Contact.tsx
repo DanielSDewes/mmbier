@@ -90,8 +90,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg mb-2">Horário de Atendimento</h3>
-                    <p className="text-foreground/70">Segunda a Sábado</p>
-                    <p className="text-foreground/70">8:00 - 20:00</p>
+                    <p className="text-foreground/70">Segunda a Segunda</p>
+                    <p className="text-foreground/70">8:00 - 00:00</p>
                   </div>
                 </div>
               </div>
@@ -122,7 +122,7 @@ const Contact = () => {
                     type="tel"
                     value={formData.phone}
                     onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                    placeholder="(84) 99999-9999"
+                    placeholder="(55) 99999-9999"
                     className="mt-2"
                   />
                 </div>
