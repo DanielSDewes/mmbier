@@ -62,7 +62,7 @@ const Hero = () => {
           <Button variant="hero" size="lg" asChild className="text-lg px-8 py-6 h-auto">
             <a href="tel:+5584682417" className="flex items-center gap-2">
               <Phone className="w-5 h-5" />
-              Ligar: (84) 6824-2417
+              Ligar: (55) 98468-2417
             </a>
           </Button>
           <Button
