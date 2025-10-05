@@ -45,11 +45,11 @@ const Footer = () => {
             <h3 className="font-display text-xl mb-4 tracking-wide">Contato</h3>
             <div className="space-y-3 text-sm">
               <a
-                href="tel:+5584682417"
+                href="tel:+55984682417"
                 className="flex items-center justify-center md:justify-end gap-2 text-primary-foreground/80 hover:text-accent transition-colors"
               >
                 <Phone className="w-4 h-4" />
-                +55 84 6824-2417
+                +55 9 8468-2417
               </a>
               <a
                 href="https://www.instagram.com/mmbiersa/"

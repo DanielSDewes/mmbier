@@ -55,10 +55,10 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-lg mb-2">Telefone</h3>
                     <a
-                      href="tel:+5584682417"
+                      href="tel:+55984682417"
                       className="text-accent hover:text-accent/80 transition-colors text-lg font-medium"
                     >
-                      +55 84 6824-2417
+                      +55 9 8468-2417
                     </a>
                   </div>
                 </div>

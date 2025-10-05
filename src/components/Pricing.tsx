@@ -45,7 +45,7 @@ const Pricing = () => {
                   </div>
 
                   <Button variant="heroPrimary" size="lg" asChild className="w-full">
-                    <a href="tel:+5584682417" className="flex items-center justify-center gap-2">
+                    <a href="tel:+55984682417" className="flex items-center justify-center gap-2">
                       <Phone className="w-4 h-4" />
                       Pedir {barrel.size}
                     </a>
