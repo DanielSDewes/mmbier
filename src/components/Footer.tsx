@@ -24,21 +24,7 @@ const Footer = () => {
             </p>
           </div>
 
-          {/* Quick Links */}
-          <div className="text-center">
-            <h3 className="font-display text-xl mb-4 tracking-wide">Navegação</h3>
-            <nav className="flex flex-col gap-2">
-              {["Início", "Sobre", "Preços", "Marcas", "Contato"].map((item) => (
-                <button
-                  key={item}
-                  onClick={() => scrollToSection(item.toLowerCase())}
-                  className="text-primary-foreground/80 hover:text-accent transition-colors text-sm"
-                >
-                  {item}
-                </button>
-              ))}
-            </nav>
-          </div>
+         
 
           {/* Contact Info */}
           <div className="text-center md:text-right">
