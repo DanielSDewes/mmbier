@@ -3,10 +3,10 @@ import { Phone } from "lucide-react";
 
 const Pricing = () => {
   const barrels = [
-    { size: "15 L", price: "R$ 195,00", popular: false },
-    { size: "20 L", price: "R$ 260,00", popular: true },
-    { size: "30 L", price: "R$ 357,00", popular: false },
-    { size: "50 L", price: "R$ 595,00", popular: false },
+    { size: "15 L", price: "R$ 210,00", popular: false },
+    { size: "20 L", price: "R$ 270,00", popular: true },
+    { size: "30 L", price: "R$ 365,00", popular: false },
+    { size: "50 L", price: "R$ 610,00", popular: false },
   ];
 
   return (
